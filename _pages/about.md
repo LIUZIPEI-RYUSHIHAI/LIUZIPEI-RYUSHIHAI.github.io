@@ -44,7 +44,7 @@ More broadly, I am interested in the methodological boundary between natural lan
 - Japanese Visual Culture and Ukiyo-e
 
 ## Affiliation
-
+**Doctoral Student**
 **Graduate School of Information Science and Engineering**   
 Ritsumeikan University  
 Osaka Ibaraki Campus, Japan
