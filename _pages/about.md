@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: ABOUT
 permalink: /
 subtitle: >
   劉子沛｜ﾘｭｳ ｼﾊｲ<br>
