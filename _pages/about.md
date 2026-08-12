@@ -29,9 +29,11 @@ latest_posts:
   limit: 3
 ---
 
-I am a graduate student at **Ritsumeikan University**.
+My research investigates how computational methods can support the interpretation, organization, and cross-lingual access of Japanese cultural heritage collections.
 
-My research focuses on **digital humanities, cultural heritage informatics, and cross-lingual natural language processing**. I am particularly interested in applying computational methods to Japanese cultural heritage materials, including ukiyo-e metadata and multilingual cultural collections.
+I work primarily with ukiyo-e and related cultural metadata, where short titles, historical orthography, named entities, and culturally specific expressions often resist direct translation or conventional multilingual alignment. My current interests include low-resource named entity recognition, cross-lingual representation learning, multilingual metadata alignment, and multimodal approaches that connect textual records with visual materials.
+
+More broadly, I am interested in the methodological boundary between natural language processing and humanistic interpretation: what computational models can meaningfully recover from cultural heritage data, and where linguistic, historical, and curatorial knowledge remains indispensable.
 
 ## Research Interests
 
@@ -43,6 +45,6 @@ My research focuses on **digital humanities, cultural heritage informatics, and 
 
 ## Affiliation
 
-**[Official English Name of Graduate School]**  
-**[Official English Name of Laboratory]**  
-Ritsumeikan University
+**Graduate School of Information Science and Engineering**   
+Ritsumeikan University  
+Osaka Ibaraki Campus, Japan
