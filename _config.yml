@@ -20,7 +20,8 @@ footer_text: >
 
 keywords: digital humanities, cultural heritage, natural language processing, cross-lingual NLP
 lang: en
-icon: 📚
+icon: icon: site-icon.png
+apple_touch_icon: site-icon.png
 
 url: https://liuzipei-ryushihai.github.io
 baseurl:
