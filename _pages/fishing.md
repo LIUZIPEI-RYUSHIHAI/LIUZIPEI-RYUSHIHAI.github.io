@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personal
+title: PERSONAL
 permalink: /fishing/
 description: Fishing notes, catches, and waterside observations.
 nav: true
