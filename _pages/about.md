@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  劉子沛｜リュウ シハイ<br>
+  劉子沛｜ﾘｭｳ ｼﾊｲ<br>
   Graduate Student at Ritsumeikan University
 
 profile:
