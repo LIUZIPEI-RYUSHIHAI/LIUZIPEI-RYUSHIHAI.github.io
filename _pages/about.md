@@ -15,7 +15,7 @@ profile:
     <p>Osaka Ibaraki Campus</p>
     <p>Ibaraki, Osaka, Japan</p>
 
-selected_papers: false
+selected_papers: true
 social: true
 
 announcements:
