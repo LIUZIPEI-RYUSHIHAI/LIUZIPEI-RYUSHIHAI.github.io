@@ -29,19 +29,17 @@ latest_posts:
   limit: 3
 ---
 
-My research investigates how computational methods can support the interpretation, organization, and cross-lingual access of Japanese cultural heritage collections.
+I study how computational methods can make Asian cultural heritage texts more accessible across languages. My current work focuses on Japanese art and literary materials—especially ukiyo-e metadata—and on building Japanese–Chinese resources for cross-lingual retrieval and semantic alignment.
 
-I work primarily with ukiyo-e and related cultural metadata, where short titles, historical orthography, named entities, and culturally specific expressions often resist direct translation or conventional multilingual alignment. My current interests include low-resource named entity recognition, cross-lingual representation learning, multilingual metadata alignment, and multimodal approaches that connect textual records with visual materials.
-
-More broadly, I am interested in the methodological boundary between natural language processing and humanistic interpretation: what computational models can meaningfully recover from cultural heritage data, and where linguistic, historical, and curatorial knowledge remains indispensable.
+My interests include domain-adaptive multilingual representations, low-resource named entity recognition and entity linking, and multimodal connections between textual metadata and visual records. I am particularly interested in methods that remain attentive to historical language, cultural context, and curatorial interpretation.
 
 ## Research Interests
 
-- Digital Humanities
-- Cultural Heritage Informatics
-- Cross-lingual Natural Language Processing
-- Multilingual Metadata Alignment
-- Japanese Visual Culture and Ukiyo-e
+- Cross-Lingual Access to Asian Cultural Heritage Texts
+- Semantic Alignment and Domain-Adaptive Language Resources for Japanese–Chinese Cultural Heritage
+- Low-Resource Named Entity Recognition and Entity Linking for Historical Metadata
+- Multimodal Integration of Textual and Visual Cultural Heritage Records
+- Computational Methods for Digital Humanities and Cultural Heritage
 
 ## Affiliation
 **Graduate School of Information Science and Engineering**   
