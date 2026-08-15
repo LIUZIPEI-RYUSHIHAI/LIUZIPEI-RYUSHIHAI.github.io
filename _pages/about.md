@@ -13,7 +13,6 @@ profile:
   more_info: >
     <p>Doctoral Student</p>
     <p><strong>Graduate School of Information Science and Engineering</strong></p>
-    <p><strong>Digital Library Laboratory</strong></p>
     <p>Ritsumeikan University</p>
     <p>Osaka Ibaraki Campus, Japan</p>
 
