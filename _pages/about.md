@@ -11,9 +11,11 @@ profile:
   image: zipei-liu.jpg
   image_circular: false
   more_info: >
+    <p>Doctoral Student</p>
+    <p><strong>Graduate School of Information Science<br>and Engineering</strong></p>
+    <p><strong>Digital Library Laboratory</strong></p>
     <p>Ritsumeikan University</p>
-    <p>Osaka Ibaraki Campus</p>
-    <p>Ibaraki, Osaka, Japan</p>
+    <p>Osaka Ibaraki Campus, Japan</p>
 
 selected_papers: true
 social: true
@@ -29,9 +31,9 @@ latest_posts:
   limit: 3
 ---
 
-I study how computational methods can make Asian cultural heritage texts more accessible across languages. My current work focuses on Japanese art and literary materials—especially ukiyo-e metadata—and on building Japanese–Chinese resources for cross-lingual retrieval and semantic alignment.
+I am currently exploring computational approaches to cross-lingual access for Asian cultural heritage texts. My work focuses on Japanese art and literary materials—especially ukiyo-e metadata—and on building Japanese–Chinese resources to examine retrieval and semantic alignment across languages.
 
-My interests include domain-adaptive multilingual representations, low-resource named entity recognition and entity linking, and multimodal connections between textual metadata and visual records. I am particularly interested in methods that remain attentive to historical language, cultural context, and curatorial interpretation.
+I am interested in domain-adaptive multilingual representations, low-resource named entity recognition and entity linking, and multimodal connections between textual metadata and visual records. More broadly, I am exploring what these methods can contribute to cultural heritage research while remaining attentive to historical language, cultural context, and curatorial interpretation.
 
 ## Research Interests
 
@@ -41,8 +43,4 @@ My interests include domain-adaptive multilingual representations, low-resource 
 - Multimodal Integration of Textual and Visual Cultural Heritage Records
 - Computational Methods for Digital Humanities and Cultural Heritage
 
-## Affiliation
-**Graduate School of Information Science and Engineering**   
-**Doctoral Student**   
-Ritsumeikan University  
-Osaka Ibaraki Campus, Japan
+
