@@ -4,7 +4,7 @@ title: ABOUT
 permalink: /
 subtitle: >
   劉 子沛｜ﾘｭｳ ｼﾊｲ<br>
-  Graduate Student at Ritsumeikan University
+  Doctoral Student at Ritsumeikan University
 
 profile:
   align: right
