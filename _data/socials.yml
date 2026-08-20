@@ -1,4 +1,7 @@
 email: gr0634vk@ed.ritsumei.ac.jp
 github_username: LIUZIPEI-RYUSHIHAI
 orcid_id: 0009-0002-4889-0033
-work_url: https://gyoseki.ritsumei.ac.jp/ritgshp/k03/resid/S009104?lang=en
+custom_social:
+  logo: /assets/img/researchmap.gif
+  title: researchmap
+  url: https://researchmap.jp/zipei-liu
